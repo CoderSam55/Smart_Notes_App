@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Theme Colors -->
+    <color name="colorPrimary">#FADB5F</color>
+    <color name="colorPrimaryVariant">#D4B645</color>
+    <color name="colorOnPrimary">#000000</color>
+    
+    <color name="colorAccent">#FADB5F</color>
+    <color name="colorBackground">#0B0B0B</color>
+    <color name="colorSurface">#1A1A1A</color>
+    
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#A0A0A0</color>
+    <color name="textColorCard">#1A1A1A</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Pastel Card Colors -->
+    <color name="cardGreen">#B2FAB4</color>
+    <color name="cardPink">#FFB3B3</color>
+    <color name="cardYellow">#FFF0A8</color>
+    <color name="cardPurple">#D5B8FF</color>
+    <color name="cardBlue">#A8E6FF</color>
+    <color name="cardWhite">#FFFFFF</color>
+</resources>
